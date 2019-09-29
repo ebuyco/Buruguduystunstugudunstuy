@@ -1,21 +1,28 @@
 {
-  "name": "graphql-react-event-booking",
+  "name": "Buruguduystunstugudunstuy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": "git+https://github.com/ebuyco/Buruguduystunstugudunstuy.git",
+  "keywords": [],
+  "author": "ErnieBuyco <buycoernie@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebuyco/Buruguduystunstugudunstuy/issues"
+  },
+  "homepage": "https://github.com/ebuyco/Buruguduystunstugudunstuy#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "express-graphql": "^0.7.1",
-    "graphql": "^14.0.2"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "next": "^9.0.7",
+    "next-apollo": "^3.1.5"
   },
   "devDependencies": {
-    "nodemon": "^1.18.7"
+    "nodemon": "^1.19.2"
   }
 }
